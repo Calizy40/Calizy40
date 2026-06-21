@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xleb3
 - 👀 I’m interested in ...tech, politics
-- 🌱 I’m currently learning ...Web3 Security Research 
-- 💞️ I’m looking to collaborate with ... fellow web3 Security Research
+- 🌱 I’m currently learning ...Web3 Security 
+- 💞️ I’m looking to collaborate with ... fellow web3 Security Researchers
 - 📫 How to reach me ...@Oxleb3 (twitter)
